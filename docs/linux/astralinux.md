@@ -6,7 +6,7 @@ nav_order: 4
 description: "Astra Linux"
 has_children: false
 ---
-<h1>Alma Linux</h1>
+<h1>Astra Linux</h1>
 [https://astralinux.ru/](https://astralinux.ru/)
 
 
